@@ -51,12 +51,12 @@
 ###
 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" valign="middle">
+    <td align="center" valign="middle" style="border: none;">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
     </td>
-    <td align="right" valign="middle">
+    <td align="right" valign="middle" style="border: none;">
       <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVuNjV4aHRvbGdtdGw2NTJoOGUwMjc2MzJoamF4ZnIxMmo1eDhrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwXOS8RqHocEM/giphy.gif"/>
     </td>
   </tr>
