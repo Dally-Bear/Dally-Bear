@@ -5,7 +5,7 @@
 
 <h3 align="left">🔹 6+ years of experience as a Commercial Electrician, bringing problem-solving & adaptability to tech</h3>
 <h3 align="left">🔹 Passionate about full-stack development, blockchain, and cloud computing</h3>
-
+<br><br>
 ###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
