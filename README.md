@@ -63,17 +63,12 @@
 
 
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=${new Date().getTime()}" alt="Random Dev Quote"/>
+</p>
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Dally-Bear&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Dally-Bear/count.svg?"  />
