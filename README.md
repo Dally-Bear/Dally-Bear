@@ -77,9 +77,7 @@
 
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Dally-Bear/count.svg?"  />
-</div>
+
 
 ###
 <picture align="center">
