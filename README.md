@@ -1,8 +1,11 @@
+###
 <h2 align="center">👋 Hi, I'm Dallas Huppie! 🚀 Junior Software Developer | Former Electrician </h2>
 <h3 align="left">🔹 Currently completing a Software Development Diploma at SAIT (2023-2025)</h3>
 <h3 align="left">🔹 6+ years of experience as a Commercial Electrician, bringing problem-solving & adaptability to tech</h3>
 <h3 align="left">🔹 Passionate about full-stack development, blockchain, and cloud computing</h3>
+###
 
+###
 <div align="center" style="margin-top: 20;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -38,29 +41,27 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
+###
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dally-Bear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dally-Bear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVuNjV4aHRvbGdtdGw2NTJoOGUwMjc2MzJoamF4ZnIxMmo1eDhrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwXOS8RqHocEM/giphy.gif"  />
-
 ###
 
 
-###
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+    </td>
+    <td align="right">
+      <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVuNjV4aHRvbGdtdGw2NTJoOGUwMjc2MzJoamF4ZnIxMmo1eDhrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwXOS8RqHocEM/giphy.gif"/>
+    </td>
+  </tr>
+</table>
 
-###
-
-<br clear="both">
-
-
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
 
 
 
