@@ -52,7 +52,7 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="border: none;"/>
+  <img width="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="border: none;"/>
   <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVuNjV4aHRvbGdtdGw2NTJoOGUwMjc2MzJoamF4ZnIxMmo1eDhrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwXOS8RqHocEM/giphy.gif" style="border: none;"/>
 </div>
 
