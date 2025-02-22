@@ -1,13 +1,9 @@
-<h2 align="center">👋 Hi, I'm Dallas Huppie!
-🚀 Junior Software Developer | Former Electrician </h2>
-
+<h2 align="center">👋 Hi, I'm Dallas Huppie! 🚀 Junior Software Developer | Former Electrician </h2>
 <h3 align="left">🔹 Currently completing a Software Development Diploma at SAIT (2023-2025)</h3>
-
 <h3 align="left">🔹 6+ years of experience as a Commercial Electrician, bringing problem-solving & adaptability to tech</h3>
 <h3 align="left">🔹 Passionate about full-stack development, blockchain, and cloud computing</h3>
-<br><br>
-###
-<div align="center">
+
+<div align="center" style="margin-top: 20;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
