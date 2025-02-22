@@ -3,7 +3,7 @@
 <h3 align="left">🔹 Currently completing a Software Development Diploma at SAIT (2023-2025)</h3>
 <h3 align="left">🔹 6+ years of experience as a Commercial Electrician, bringing problem-solving & adaptability to tech</h3>
 <h3 align="left">🔹 Passionate about full-stack development, blockchain, and cloud computing</h3>
-
+<p>&nbsp;</p>
 
 
 <div align="center" style="margin-top: 20;">
@@ -41,21 +41,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
 </div>
-
+<p>&nbsp;</p>
 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dally-Bear&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dally-Bear&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<p>&nbsp;</p>
 
 
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <img width="500" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" style="border: none;"/>
   <img height="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVuNjV4aHRvbGdtdGw2NTJoOGUwMjc2MzJoamF4ZnIxMmo1eDhrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwXOS8RqHocEM/giphy.gif" style="border: none;"/>
 </div>
-
+<p>&nbsp;</p>
 
 
 <picture align="center">
@@ -63,13 +63,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
-
+<p>&nbsp;</p>
 
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/Dally-Bear/count.svg?"  />
 </div>
-
+<p>&nbsp;</p>
 
 
 <div align="center">
