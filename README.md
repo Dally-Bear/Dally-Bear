@@ -1,4 +1,9 @@
-<h2 align="left">Hi 👋 My name is Dallas and im a Junior Software Developer that is passionate about fintech, blockchain, and secure web applications. Bringing problem-solving and teamwork skills from 6+ years as a Commercial Electrician to software development.</h2>
+<h2 align="left">👋 Hi, I'm Dallas Huppie!
+🚀 Junior Software Developer | Former Electrician | Blockchain Enthusiast
+
+🔹 Currently completing a Software Development Diploma at SAIT (2023-2025)
+🔹 6+ years of experience as a Commercial Electrician, bringing problem-solving & adaptability to tech
+🔹 Passionate about full-stack development, blockchain, and cloud computing</h2>
 
 ###
 
