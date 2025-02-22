@@ -52,7 +52,7 @@
 ###
 
 <div align="left">
-  <a href=" https://www.linkedin.com/in/dallas-huppie-96aa222a1/" target="_blank">
+  <a href="https://www.linkedin.com/in/dallas-huppie-96aa222a1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
@@ -63,9 +63,15 @@
 
 
 
-###
 
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dally-Bear&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
