@@ -1,9 +1,11 @@
-<h2 align="left">👋 Hi, I'm Dallas Huppie!
+<h2 align="center">👋 Hi, I'm Dallas Huppie!
 🚀 Junior Software Developer | Former Electrician | Blockchain Enthusiast
+</h2>
 
+<h3 align="left">
 🔹 Currently completing a Software Development Diploma at SAIT (2023-2025)
 🔹 6+ years of experience as a Commercial Electrician, bringing problem-solving & adaptability to tech
-🔹 Passionate about full-stack development, blockchain, and cloud computing</h2>
+🔹 Passionate about full-stack development, blockchain, and cloud computing</h3>
 
 ###
 
